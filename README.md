@@ -1,5 +1,4 @@
-﻿# Predictive-Analytics-ML
-
+# Predictive Analytics - Machine Learning
 
 ## Project Overview
 This project focuses on applying Machine Learning techniques to predict the behavior of industrial DC mixer motors based on electrical signals. The model leverages TensorFlow and LabView for signal processing, model deployment, and visualization. The goal is to enhance predictive maintenance strategies, reduce downtime, and optimize system reliability.
@@ -66,10 +65,11 @@ PredictiveAnalytics-ML/
 - Integrate additional machine learning models to compare performance.
 - Develop a web-based dashboard to visualize predictions in real-time.
 
+## Project Presentation
+Watch the project presentation on YouTube: [Predictive Analytics Project](https://youtube.com/shorts/qWUTy3BRKxQ?feature=share)
+
 ---
 **Author:** Cleilton Sousa  
 **Email:** cleilton.mecatronico@gmail.com  
 **LinkedIn:** [linkedin.com/in/cleiltonss](https://linkedin.com/in/cleiltonss)  
 **GitHub:** [github.com/Cleiltonss](https://github.com/Cleiltonss)
-
-
